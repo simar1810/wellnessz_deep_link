@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.updevelop.wellness_z_mvvm",
+      "sha256_cert_fingerprints":
+      ["E6:CD:B3:04:6C:F4:2E:AD:9C:5D:77:FE:C5:88:70:4B:14:14:0F:D3:CF:D5:6A:EF:D4:39:FE:27:B6:E0:9C:26"]
+    }
+  }]
